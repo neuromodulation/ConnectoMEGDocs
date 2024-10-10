@@ -1,6 +1,6 @@
 # ConnectoMEG
 
-functions
+This is the documentation of the ConnectoMEG project.
 
 ## Genetics
 
