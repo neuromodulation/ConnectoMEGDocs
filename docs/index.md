@@ -6,3 +6,5 @@ This is the documentation of the ConnectoMEG project.
 
 ## paper
 BIDS(https://bids.neuroimaging.io/)
+
+![alt text](Test.png "Title")
